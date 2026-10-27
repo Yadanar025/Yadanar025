@@ -22,33 +22,33 @@ Currently, I am strengthening my skills in Python, machine learning, NLP, and AI
 ## 🛠️ Technical Skills
 
 ### 💻 Programming
-[![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Yadanar025/My_Project))
+[![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Yadanar025/My_Project)
 ![SQL](https://img.shields.io/badge/SQL-Basic-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### 🤖 AI, Machine Learning & Data Science
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-Exploring-8A2BE2?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-Exploring-8A2BE2?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Time Series](https://img.shields.io/badge/Time_Series_Analysis-Data_Science-2E8B57?style=flat-square)
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-Exploring-8A2BE2?style=flat-square)](https://github.com/Yadanar025/My_Project/tree/main/Student%20Dashboard)
+[![Deep Learning](https://img.shields.io/badge/Deep_Learning-Exploring-8A2BE2?style=flat-square)](https://github.com/Yadanar025/My_Project/tree/main/School%20Projects/PaperImplementation_GreenAI)
+[![Computer Vision](https://img.shields.io/badge/Computer_Vision-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://github.com/Yadanar025/My_Project/tree/main/School%20Projects/Maximum%20Likelihood%20Classification)
+[![Time Series](https://img.shields.io/badge/Time_Series_Analysis-Data_Science-2E8B57?style=flat-square)](https://github.com/Yadanar025/My_Project/tree/main/School%20Projects/Flu%20Symptoms%20Searches%20A%20Time%20Series%20Analysis)
 ![RAG](https://img.shields.io/badge/RAG-AI_Applications-FF6F00?style=flat-square)
 ![Data Preprocessing](https://img.shields.io/badge/Data_Cleaning_%26_Preprocessing-Data_Science-4682B4?style=flat-square)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-Analytics-008080?style=flat-square)
 
 ### 🧰 Frameworks & Libraries
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://github.com/Yadanar025/My_Project/tree/main/NEU-DET%20Dataset%20Prediction)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)](https://github.com/Yadanar025/My_Project/tree/main/NEU-DET%20Dataset%20Prediction)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://github.com/Yadanar025/My_Project/tree/main/Student%20Dashboard)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://github.com/Yadanar025/My_Project/tree/main/Student%20Dashboard)
 
 ### ⚙️ Tools & Platforms
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://github.com/Yadanar025/My_Project/tree/main/Student%20Dashboard)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://github.com/Yadanar025/My_Project/tree/main/Power%20BI)
 
 ### 🌏 Languages
 - **Burmese:** Native
@@ -59,7 +59,7 @@ Currently, I am strengthening my skills in Python, machine learning, NLP, and AI
 
 ## 💡 Featured Projects
 
-### 🧠 1. Agentic RAG for Business Decision Support
+### 🧠 Agentic RAG for Business Decision Support
 
 **Research | NLP | Information Retrieval | AI**
 
@@ -72,50 +72,33 @@ Exploring how internal business documents can be transformed into a searchable k
 
 **Tech:** Python, embeddings, vector databases, hybrid retrieval, LLMs
 
-🔗 **[View Repository](YOUR_RAG_REPOSITORY_URL)**
+### 🏭 [Steel Surface Defect Classification using Deep Learning](https://github.com/Yadanar025/My_Project/tree/main/NEU-DET%20Dataset%20Prediction)
 
-### 📅 2. University Timetable Optimization
+**Computer Vision | Feb 2026**
 
-**Constraint Satisfaction | Heuristics | Optimization**
+- Developed deep learning models to classify six steel surface defect categories using the NEU-DET dataset.
+- Compared a custom CNN with VGG16 transfer learning using TensorFlow, achieving **97.78% accuracy with VGG16** versus 81.94% with the custom CNN.
+- Analyzed the effects of data augmentation and the Adam and SGD optimizers on model performance.
 
-Building an intelligent timetable optimizer that assigns university classes to rooms and time slots while respecting scheduling constraints.
+**Focus:** Python · TensorFlow · Keras · CNN · VGG16 · Computer Vision
 
-- Modeling the scheduling problem as a Constraint Satisfaction Problem (CSP).
-- Handling hard constraints and soft constraints.
-- Exploring optimization strategies to reduce scheduling penalties.
-- Evaluating schedule quality and constraint violations.
+---
 
-**Tech:** Python, CSP, constraint optimization, heuristic search
+### 🎓 Student Attendance and Dropout Prediction System
 
-🔗 **[View Repository](YOUR_TIMETABLE_REPOSITORY_URL)**
+**Machine Learning | Feb – Mar 2025**
 
-### 🎮 3. Intelligent Tic-Tac-Toe Agent
+- Built predictive models to estimate student attendance and identify potential dropout risks.
+- Compared Linear Regression, Logistic Regression, Decision Tree, Random Forest, and XGBoost using F1-score and confusion matrices.
+- Developed an interactive Streamlit interface to visualize predictions and generate student-level outputs.
+- 
+🔗 **[Explore AI-Related Projects](https://github.com/Yadanar025/My_Project/tree/main/AI%20Related%20Project)**
 
-**Artificial Intelligence | Game Search | Decision-Making**
 
-Implementing a game-playing agent that uses Minimax and Alpha-Beta Pruning to choose strategic moves.
+**Focus:** Python · Scikit-learn · Machine Learning · Streamlit
 
-- Exploring maximizing and minimizing decisions in a game tree.
-- Applying Alpha-Beta Pruning to skip unnecessary search branches.
-- Comparing search efficiency and decision-making behavior.
-
-**Tech:** Python, Minimax, Alpha-Beta Pruning, adversarial search
-
-🔗 **[View Repository](YOUR_TICTACTOE_REPOSITORY_URL)**
-
-### 🗺️ 4. Myanmar Road-Network Search
-
-**Graph Algorithms | Pathfinding | Web Application**
-
-Developing a road-network application to explore search algorithms and route-finding across cities in Myanmar.
-
-- Implementing BFS, DFS, Uniform-Cost Search, Iterative Deepening, Greedy Best-First Search, and A*.
-- Exploring uninformed and informed search strategies.
-- Comparing approaches to finding routes through a graph.
-
-**Tech:** Python, Flask, graph search, pathfinding
-
-🔗 **[View Repository](YOUR_ROAD_NETWORK_REPOSITORY_URL)**
+🔗 **[Explore AI-Related Projects](https://github.com/Yadanar025/My_Project/tree/main/AI%20Related%20Project)**
+[AI Search](https://ai-search-mmdt002.onrender.com) | [Checker](https://checker-mmdt002.onrender.com) | [Tic-Tac-Toe AI](https://ttt-mmdt002.onrender.com)
 
 ---
 
