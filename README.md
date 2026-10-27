@@ -83,8 +83,7 @@ Exploring how internal business documents can be transformed into a searchable k
 **Focus:** Python · TensorFlow · Keras · CNN · VGG16 · Computer Vision
 
 ---
-
-### 🎓 Student Attendance and Dropout Prediction System
+### 🎓 [Student Attendance and Dropout Prediction System](https://github.com/Yadanar025/My_Project/tree/main/Student%20Dashboard)
 
 **Machine Learning | Feb – Mar 2025**
 
