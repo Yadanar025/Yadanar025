@@ -4,7 +4,7 @@
 
 🎓 Master's Student in Information Science and Engineering at **Ritsumeikan University, Japan**
 
-Master's student in Information Science and Engineering at Ritsumeikan University (GPA 4.8/5.0), specializing in AI and data science. Hands-on experience building machine learning and computer vision systems, including a neonatal chest-rise detection pipeline and deep learning models for industrial defect classification. Bringing over 10 years of prior experience in data analytics and media strategy, where I turned large volumes of market and audience data into decisions for global clients. Now focused on applying machine learning, computer vision, and RAG-based systems to solve real-world problems as an AI engineer, and building Japanese language skills toward working in Japan.
+Master's student in Information Science and Engineering at Ritsumeikan University, specializing in AI and data science. Hands-on experience building machine learning and computer vision systems, including a neonatal chest-rise detection pipeline and deep learning models for industrial defect classification. Bringing over 10 years of prior experience in data analytics and media strategy, where I turned large volumes of market and audience data into decisions for global clients. Now focused on applying machine learning, computer vision, and RAG-based systems to solve real-world problems as an AI engineer, and building Japanese language skills toward working in Japan.
 
 Currently, I am strengthening my skills in Python, machine learning, NLP, and AI-powered decision support systems.
 
