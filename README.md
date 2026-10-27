@@ -91,13 +91,14 @@ Exploring how internal business documents can be transformed into a searchable k
 - Built predictive models to estimate student attendance and identify potential dropout risks.
 - Compared Linear Regression, Logistic Regression, Decision Tree, Random Forest, and XGBoost using F1-score and confusion matrices.
 - Developed an interactive Streamlit interface to visualize predictions and generate student-level outputs.
-- 
+  
 🔗 **[Explore AI-Related Projects](https://github.com/Yadanar025/My_Project/tree/main/AI%20Related%20Project)**
 
 
 **Focus:** Python · Scikit-learn · Machine Learning · Streamlit
 
 🔗 **[Explore AI-Related Projects](https://github.com/Yadanar025/My_Project/tree/main/AI%20Related%20Project)**
+
 [AI Search](https://ai-search-mmdt002.onrender.com) | [Checker](https://checker-mmdt002.onrender.com) | [Tic-Tac-Toe AI](https://ttt-mmdt002.onrender.com)
 
 ---
