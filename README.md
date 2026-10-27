@@ -121,10 +121,10 @@ I am interested in combining this business experience with AI and data science t
 ## 🌱 Currently Learning
 
 - Machine learning and model evaluation
-- TensorFlow and practical ML workflows
 - Natural language processing and information retrieval
 - AI agents and retrieval-augmented generation
-- Data science and optimization techniques
+- Classical AI and Search Algorithms
+- Probability and Statistical Inference
 
 ---
 
@@ -134,7 +134,7 @@ I'm interested in AI/ML, data science, applied research, and opportunities to co
 
 - 💻 GitHub: [Explore my repositories](https://github.com/My_Project)
 - 🌐 Portfolio: https://yadanar025.github.io/
-- 💼 LinkedIn: https://yadanar025.github.io/
+- 💼 LinkedIn: https://www.linkedin.com/in/khin-yadanar-aung-35292862/
 
 ---
 
