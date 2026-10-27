@@ -22,7 +22,7 @@ Currently, I am strengthening my skills in Python, machine learning, NLP, and AI
 ## 🛠️ Technical Skills
 
 ### 💻 Programming
-![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python&logoColor=white)(https://github.com/Yadanar025/My_Project)
+[![Python]([https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python&logoColor=white]](https://github.com/Yadanar025/My_Project))
 ![SQL](https://img.shields.io/badge/SQL-Basic-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### 🤖 AI, Machine Learning & Data Science
